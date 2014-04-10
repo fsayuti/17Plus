@@ -80,7 +80,7 @@
   
          <item> 
             <title>But GO TV</title> 
-            <link>rtmp://111.118.21.76:1935/ptv/phd772</link> 
+            <link>rtsp://111.118.21.76:1935/ptv/phd772</link> 
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
         </item> 
   
@@ -92,10 +92,21 @@
   
          <item> 
             <title>Visit X TV</title> 
-            <link>rtmp://194.116.150.47/live/visitx.stream1</link> 
+            <link>rtsp://194.116.150.47/live/visitx.stream1</link> 
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
-        </item>       
-  
+        </item> 
+        
+        <item> 
+            <title>French Lover TV</title> 
+            <link>http://46.251.49.113:7777/udp/239.195.1.160:1234</link> 
+            <thumbnail>http://cwdw.biz/catalog_images/French_Lover.jpg</thumbnail> 
+        </item>      
+        
+        <item> 
+            <title>Private TV</title> 
+            <link>http://46.251.49.113:7777/udp/239.195.1.161:1234</link> 
+            <thumbnail>http://cwdw.biz/catalog_images/French_Lover.jpg</thumbnail> 
+        </item>     
   
       </items> 
   
