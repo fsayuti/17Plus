@@ -86,13 +86,13 @@
   
          <item> 
             <title>SCT TV</title> 
-            <link>http://188.230.136.37:80/udp/239.18.1.234:5000</link> 
+            <link>http://208.122.3.2:9000</link> 
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
         </item> 
   
          <item> 
             <title>Playhouse TV</title> 
-            <link>http://188.230.136.37:80/udp/239.18.1.235:5000</link> 
+            <link>http://208.122.3.2:8700</link> 
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
         </item> 
         
