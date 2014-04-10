@@ -86,7 +86,7 @@
   
          <item> 
             <title>SCT TV</title> 
-            <link>http://208.122.3.2:9000</link> 
+            <link>http://91.240.87.34:4015/udp/224.200.202.64:1234</link> 
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
         </item> 
   
