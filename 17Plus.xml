@@ -85,8 +85,8 @@
         </item> 
   
          <item> 
-            <title>Visit X2 TV</title> 
-            <link>http://188.226.18.235:81/udp/239.255.2.68:1234</link> 
+            <title>Red Light TV</title> 
+            <link>rtsp://46.249.213.87/broadcast/redlight-1-tablet.3gp</link> 
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
         </item> 
   
@@ -102,12 +102,6 @@
             <thumbnail>http://cwdw.biz/catalog_images/French_Lover.jpg</thumbnail> 
         </item>      
         
-        <item> 
-            <title>Bella Club TV</title> 
-            <link>rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp</link> 
-            <thumbnail>http://cwdw.biz/catalog_images/French_Lover.jpg</thumbnail> 
-        </item>     
-  
       </items> 
   
     </channel> 
