@@ -98,13 +98,13 @@
         
         <item> 
             <title>French Lover TV</title> 
-            <link>http://46.251.49.113:7777/udp/239.195.1.160:1234</link> 
+            <link>http://91.240.87.34:4015/udp/224.200.202.64:1234</link> 
             <thumbnail>http://cwdw.biz/catalog_images/French_Lover.jpg</thumbnail> 
         </item>      
         
         <item> 
             <title>Private TV</title> 
-            <link>http://46.251.49.113:7777/udp/239.195.1.161:1234</link> 
+            <link>http://91.240.87.34:4015/udp/224.200.202.63:1234</link> 
             <thumbnail>http://cwdw.biz/catalog_images/French_Lover.jpg</thumbnail> 
         </item>     
   
