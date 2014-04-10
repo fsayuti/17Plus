@@ -85,14 +85,14 @@
         </item> 
   
          <item> 
-            <title>Japon +16 TV</title> 
-            <link>rtsp://59.124.220.46:554/live/tv1.stream</link> 
+            <title>SCT TV</title> 
+            <link>http://188.230.136.37:80/udp/239.18.1.234:5000</link> 
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
         </item> 
   
          <item> 
-            <title>Visit X TV</title> 
-            <link>rtsp://194.116.150.47/live/visitx.stream1</link> 
+            <title>Playhouse TV</title> 
+            <link>http://188.230.136.37:80/udp/239.18.1.235:5000</link> 
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
         </item> 
         
