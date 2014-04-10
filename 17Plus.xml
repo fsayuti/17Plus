@@ -1,0 +1,102 @@
+<channel> 
+         
+        <name>18+ Test</name> 
+        <thumbnail>http://motherstuff.files.wordpress.com/2011/10/keep-out-restricted-area-sign-s-2451.gif</thumbnail> 
+          
+    <items> 
+          
+        <item> 
+            <title>J Hot TV</title> 
+            <link>rtsp://111.118.21.75/ptv2/phd59</link> 
+            <thumbnail>http://2.bp.blogspot.com/-MuEqyboBOME/TzQHSj4BKcI/AAAAAAAAAdg/Ns4nbxzoCn4/s1600/PINK_TV_LOGO.jpg</thumbnail> 
+        </item> 
+          
+         <item> 
+            <title>CR ON TV</title> 
+            <link>rtsp://111.118.21.75/ptv2/phd60</link> 
+            <thumbnail>http://lh3.googleusercontent.com/-mg5RSD3rJa0/UBlt62Ia8FI/AAAAAAAABvA/_15pZ9Mu2SA/korean_west%2520movie.jpg</thumbnail> 
+        </item> 
+  
+         <item> 
+            <title>Pink TV</title> 
+            <link>rtsp://111.118.21.75/ptv2/phd62</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/redlight_hd.jpg</thumbnail> 
+        </item> 
+              
+         <item> 
+            <title>Delight Empire TV</title> 
+            <link>rtsp://111.118.21.75/ptv2/phd63</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hustler_hd.jpg</thumbnail> 
+        </item> 
+          
+        <item> 
+            <title>Liv Ting TV</title> 
+            <link>rtsp://111.118.21.75/ptv2/phd64</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+    </items> 
+  
+         <item> 
+            <title>**TV</title> 
+            <link>rtsp://111.118.21.77:1935/ptv3/phd497</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+  
+        <item> 
+            <title>##TV</title> 
+            <link>rtsp://111.118.21.77:1935/ptv3/phd499</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+            
+         <item> 
+            <title>Girl TV</title> 
+            <link>rtsp://111.118.21.76:1935/ptv/phd501</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+  
+         <item> 
+            <title>Viki Enjoy TV</title> 
+            <link>rtsp://111.118.21.75:1935/ptv2/phd765</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+  
+         <item> 
+            <title>Midnite TV</title> 
+            <link>rtsp://111.118.21.75:1935/ptv2/phd766</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+  
+         <item> 
+            <title>PLAYY 19+ TV</title> 
+            <link>rtsp://111.118.21.77:1935/ptv3/phd769</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+  
+         <item> 
+            <title>The O TV</title> 
+            <link>rtsp://111.118.21.77:1935/ptv3/phd771</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+  
+         <item> 
+            <title>But GO TV</title> 
+            <link>rtmp://111.118.21.76:1935/ptv/phd772</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+  
+         <item> 
+            <title>Visit X2 TV</title> 
+            <link>http://188.226.18.235:81/udp/239.255.2.68:1234</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+  
+         <item> 
+            <title>Visit X TV</title> 
+            <link>rtmp://194.116.150.47/live/visitx.stream1</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item>       
+  
+  
+      </items> 
+  
+    </channel> 
