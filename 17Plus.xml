@@ -102,8 +102,8 @@
         </item> 
         
         <item> 
-            <title>PBoy1</title> 
-            <link>rtmp://edge-05.livestreamcast.org:1935/pboytv/pboytv swfUrl=http://livestreamcast.org/StrobeMediaPlayback.swf pageUrl=http://livestreamcast.org/embed.php?c=pboytv&vw=460&vh=360</link> 
+            <title>RED Light 1</title> 
+            <link>rtsp://46.249.213.87/broadcast/redlight-1-tablet.3gp</link> 
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
         </item>
      </items> 
