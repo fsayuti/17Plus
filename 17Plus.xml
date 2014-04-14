@@ -34,8 +34,7 @@
             <link>rtsp://111.118.21.75/ptv2/phd64</link> 
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
         </item> 
-    </items> 
-  
+    
          <item> 
             <title>**TV</title> 
             <link>rtsp://111.118.21.77:1935/ptv3/phd497</link> 
