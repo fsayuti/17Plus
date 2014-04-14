@@ -102,6 +102,13 @@
             <thumbnail>http://cwdw.biz/catalog_images/French_Lover.jpg</thumbnail> 
         </item>      
         
+        <item> 
+            <title>Russian Nite TV</title> 
+            <link>rtmp://$OPT:rtmp-raw=rtmp://edge-05.livestreamcast.org:1935/pboytv/pboytv swfUrl=http://livestreamcast.org/StrobeMediaPlayback.swf pageUrl=http://livestreamcast.org/embed.php?c=pboytv&vw=460&vh=360
+            </link> 
+            <thumbnail>http://cwdw.biz/catalog_images/French_Lover.jpg</thumbnail> 
+        </item>   
+        
       </items> 
   
     </channel> 
