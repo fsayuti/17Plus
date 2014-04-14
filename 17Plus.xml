@@ -90,6 +90,12 @@
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
         </item> 
   
+         <item> 
+            <title>XXX Music</title> 
+            <link>http://zazax1.ru/video/basstr.flv</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+        
      </items> 
   
 </channel> 
