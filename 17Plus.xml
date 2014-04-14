@@ -95,6 +95,12 @@
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
         </item> 
         
+        <item> 
+            <title>Korea Spece</title> 
+            <link>rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd497 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.*****etzaa.tv/canales-tv/*****TV3.html</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+        
      </items> 
   
 </channel> 
