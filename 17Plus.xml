@@ -85,29 +85,11 @@
         </item> 
   
          <item> 
-            <title>SCT TV</title> 
+            <title>Russian Nite</title> 
             <link>http://91.240.87.34:4015/udp/224.200.202.64:1234</link> 
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
         </item> 
   
-         <item> 
-            <title>Playhouse TV</title> 
-            <link>http://208.122.3.2:8700</link> 
-            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
-        </item> 
-        
-        <item> 
-            <title>Russian Nite TV</title> 
-            <link>rtsp://46.249.213.87/broadcast/redlight-1-tablet.3gp</link> 
-            <thumbnail>http://cwdw.biz/catalog_images/French_Lover.jpg</thumbnail> 
-        </item>      
-        
-        <item> 
-            <title>KSA1</title> 
-            <link>rtsp://38.96.148.74/CH1TV</link> 
-            <thumbnail>http://cwdw.biz/catalog_images/French_Lover.jpg</thumbnail> 
-        </item>   
-        
-      </items> 
+     </items> 
   
-    </channel> 
+</channel> 
