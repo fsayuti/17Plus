@@ -102,8 +102,20 @@
         </item> 
         
         <item> 
-            <title>Korea Spece</title> 
-            <link>rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp</link> 
+            <title>VOD Asia 01</title> 
+            <link>http://video.mystreamservice.com/480p/6981163.mp4</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+        
+        <item> 
+            <title>VOD Asia 02</title> 
+            <link>http://video.mystreamservice.com/480p/1366427.mp4</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+        
+        <item> 
+            <title>VOD Asia 03</title> 
+            <link>http://video.mystreamservice.com/480p/6061992.mp4</link> 
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
         </item> 
         
