@@ -101,6 +101,12 @@
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
         </item> 
         
+        <item> 
+            <title>Korea Spece</title> 
+            <link>rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+        
         </items> 
   
 </channel> 
