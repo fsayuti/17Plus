@@ -119,6 +119,60 @@
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
         </item> 
         
+        <item> 
+            <title>VOD Asia 04</title> 
+            <link>http://video.mystreamservice.com/480p/9809641.mp4</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+        
+        <item> 
+            <title>VOD Asia 05</title> 
+            <link>http://video.mystreamservice.com/480p/5762605.mp4</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+        
+        
+        
+        
+        
+        <item> 
+            <title>VOD EU 01</title> 
+            <link>http://video.mystreamservice.com/480p/3249585.mp4</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+        
+        <item> 
+            <title>VOD EU 02</title> 
+            <link>http://video.mystreamservice.com/480p/6575436.mp4</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+        
+        <item> 
+            <title>VOD EU 03</title> 
+            <link>http://video.mystreamservice.com/480p/3963342.mp4</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+        
+        <item> 
+            <title>VOD EU 04</title> 
+            <link>http://video.mystreamservice.com/480p/9782465.mp4</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item> 
+        
+        <item> 
+            <title>VOD EU 05</title> 
+            <link>http://video.mystreamservice.com/480p/3930465.mp4</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
+        </item>
+        
+        
+        
+        
+        
+        
+        
+        
+        
         </items> 
   
 </channel> 
