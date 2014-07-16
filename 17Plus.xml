@@ -99,80 +99,18 @@
             <title>Korea Spece</title> 
             <link>rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd497 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.*****etzaa.tv/canales-tv/*****TV3.html</link> 
             <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
-        </item> 
-        
-        <item> 
-            <title>VOD Asia 01</title> 
-            <link>http://video.mystreamservice.com/480p/6981163.mp4</link> 
-            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
-        </item> 
-        
-        <item> 
-            <title>VOD Asia 02</title> 
-            <link>http://video.mystreamservice.com/480p/1366427.mp4</link> 
-            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
-        </item> 
-        
-        <item> 
-            <title>VOD Asia 03</title> 
-            <link>http://video.mystreamservice.com/480p/6061992.mp4</link> 
-            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
-        </item> 
-        
-        <item> 
-            <title>VOD Asia 04</title> 
-            <link>http://video.mystreamservice.com/480p/9809641.mp4</link> 
-            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
-        </item> 
-        
-        <item> 
-            <title>VOD Asia 05</title> 
-            <link>http://video.mystreamservice.com/480p/5762605.mp4</link> 
-            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
-        </item> 
-        
-        
-        
-        
-        
-        <item> 
-            <title>VOD EU 01</title> 
-            <link>http://video.mystreamservice.com/480p/3249585.mp4</link> 
-            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
-        </item> 
-        
-        <item> 
-            <title>VOD EU 02</title> 
-            <link>http://video.mystreamservice.com/480p/6575436.mp4</link> 
-            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
-        </item> 
-        
-        <item> 
-            <title>VOD EU 03</title> 
-            <link>http://video.mystreamservice.com/480p/3963342.mp4</link> 
-            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
-        </item> 
-        
-        <item> 
-            <title>VOD EU 04</title> 
-            <link>http://video.mystreamservice.com/480p/9782465.mp4</link> 
-            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
-        </item> 
-        
-        <item> 
-            <title>VOD EU 05</title> 
-            <link>http://video.mystreamservice.com/480p/3930465.mp4</link> 
-            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail> 
         </item>
         
-        
-        
-        
-        
-        
-        
-        
-        
+        <item>
+            <title>FilmBox Action</title>
+	   <link>http://inea.live.e1-inos.insyscd.net/filmboxaction.smil/chunklist_b2400000.m3u8</link>
+	</item>
+	
+	<item>
+	   <title>FilmBox HD</title>
+	   <link>http://inea.live.e1-inos.insyscd.net/filmboxhd.smil/chunklist_b2400000.m3u8</link>
+	</item>
+	
         </items> 
   
 </channel> 
